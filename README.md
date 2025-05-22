@@ -23,3 +23,13 @@ Cada item do cardápio possui:
 - HTML5
 - CSS3 (Flexbox e Grid Layout)
 - Tipografia moderna e design responsivo
+
+---
+
+## 🌐 Como acessar
+
+Você pode visualizar este projeto publicado em:  
+➡️ [`https://mivdeveloper.github.io/cardapio/`](mivdeveloper.github.io/cardapio/)
+
+---
+
