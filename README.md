@@ -16,8 +16,6 @@ Cada item do cardápio possui:
 - Preço
 - Descrição do produto
 
----
-
 ## 🛠️ Tecnologias usadas
 
 - HTML5
